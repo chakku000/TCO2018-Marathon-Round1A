@@ -58,3 +58,11 @@
 - 10 <= NC <= 100
 - 0 <= junctionCost <= 10.0
 - 0 <= failureProbability <= 40%(0.4)
+
+## Visualizerの使い方
+
+```
+java -jar tester.jar -exec "./a.out" -seed <seed>
+```
+ここで、seedは乱数の種。
+ただし、多分seed=1,2に関してはテストケースと一緒になってるはず
