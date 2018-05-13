@@ -58,6 +58,7 @@
 - 10 <= NC <= 100
 - 0 <= junctionCost <= 10.0
 - 0 <= failureProbability <= 40%(0.4)
+- 作成できるjunctionの数は最大で2NCまで
 
 ## Visualizerの使い方
 
